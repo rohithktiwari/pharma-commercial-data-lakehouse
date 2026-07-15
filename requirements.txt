@@ -1,1 +1,9 @@
+pyspark
+delta-spark
+pandas
+Azure
+Azure data factory
+sql
+databricks
+deltalogs
 
