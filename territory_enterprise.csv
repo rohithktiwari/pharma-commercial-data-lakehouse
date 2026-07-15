@@ -1,0 +1,201 @@
+Territory_ID,Territory_Name,Region,State,Zone,Population,Market_Size,Sales_Manager,Active,Latitude,Longitude,Priority
+T001,Territory_1,North,West Bengal,C,3027435,Medium,Manager_0,N,19.673,86.8348,Low
+T002,Territory_2,East,Tamil Nadu,A,1227903,Small,Manager_1,Y,24.0569,69.9074,Low
+T003,Territory_3,East,Tamil Nadu,C,3042493,Medium,Manager_2,N,30.1991,91.7439,Low
+T004,Territory_4,Central,Karnataka,B,4543382,Medium,Manager_3,N,17.2267,71.5826,Medium
+T005,Territory_5,North,Tamil Nadu,B,4492984,Small,Manager_4,Y,17.0095,82.5671,Low
+T006,Territory_6,South,Telangana,B,1969498,Medium,Manager_5,N,13.0935,82.3144,Low
+T007,Territory_7,West,West Bengal,A,2957028,Large,Manager_6,Y,27.4692,70.9994,High
+T008,Territory_8,East,West Bengal,B,4354692,Medium,Manager_7,N,12.5249,96.2531,High
+T009,Territory_9,West,West Bengal,A,1061598,Small,Manager_8,N,14.3279,85.6391,Low
+T010,Territory_10,East,West Bengal,C,1581825,Small,Manager_9,N,26.1894,75.7385,High
+T011,Territory_11,West,Maharashtra,A,918440,Large,Manager_10,Y,22.3991,90.0214,High
+T012,Territory_12,West,Uttar Pradesh,A,1990334,Large,Manager_11,Y,27.0095,96.4562,Low
+T013,Territory_13,West,Uttar Pradesh,C,2805006,Small,Manager_12,N,25.4196,78.3619,Low
+T014,Territory_14,East,Gujarat,A,2243385,Medium,Manager_13,Y,28.222,87.7648,Low
+T015,Territory_15,South,Tamil Nadu,C,2942190,Small,Manager_14,Y,15.4628,75.0215,Medium
+T016,Territory_16,West,West Bengal,A,3354960,Small,Manager_15,N,15.4405,95.6232,Low
+T017,Territory_17,North,West Bengal,C,3853426,Large,Manager_16,N,30.4821,71.5816,Low
+T018,Territory_18,Central,Gujarat,C,3663231,Large,Manager_17,Y,29.1867,72.9188,Medium
+T019,Territory_19,East,Uttar Pradesh,C,3401497,Large,Manager_18,N,25.6103,87.1772,Low
+T020,Territory_20,Central,Karnataka,A,282006,Large,Manager_19,N,21.3849,72.3573,High
+T021,Territory_21,West,Maharashtra,C,2291411,Small,Manager_20,N,18.3175,71.1505,High
+T022,Territory_22,West,Delhi,B,3388633,Large,Manager_21,N,25.759,91.8126,Medium
+T023,Territory_23,South,Delhi,C,2969993,Medium,Manager_22,N,15.4209,90.1807,Medium
+T024,Territory_24,South,Delhi,B,275740,Large,Manager_23,N,12.0502,69.2181,High
+T025,Territory_25,Central,Telangana,B,1810658,Small,Manager_24,N,27.984,69.3039,Medium
+T026,Territory_26,Central,Gujarat,B,1058888,Medium,Manager_25,N,14.9711,75.956,Low
+T027,Territory_27,Central,Delhi,C,221821,Large,Manager_26,N,13.7563,87.3012,Medium
+T028,Territory_28,Central,Delhi,C,2150940,Large,Manager_27,Y,28.6531,83.3353,High
+T029,Territory_29,East,Maharashtra,B,382951,Medium,Manager_28,Y,9.3453,83.3755,Medium
+T030,Territory_30,North,Karnataka,C,669715,Small,Manager_29,N,21.752,85.361,Medium
+T031,Territory_31,South,Karnataka,A,2210509,Medium,Manager_30,N,27.0673,75.9075,Medium
+T032,Territory_32,East,Delhi,C,4690954,Large,Manager_31,Y,30.7316,69.0247,High
+T033,Territory_33,South,Telangana,C,653120,Small,Manager_32,N,28.6939,90.6849,Medium
+T034,Territory_34,East,Karnataka,C,335959,Large,Manager_33,N,21.574,78.4867,High
+T035,Territory_35,Central,Uttar Pradesh,A,2659721,Small,Manager_34,N,18.6794,90.8183,Medium
+T036,Territory_36,West,Maharashtra,A,2243168,Medium,Manager_35,N,34.9935,83.7444,High
+T037,Territory_37,East,Gujarat,C,4263183,Medium,Manager_36,N,10.5416,68.6593,High
+T038,Territory_38,North,West Bengal,B,1274386,Medium,Manager_37,N,16.0676,78.6335,High
+T039,Territory_39,West,Gujarat,A,1803332,Small,Manager_38,N,16.4865,77.4777,Medium
+T040,Territory_40,South,Maharashtra,B,3077930,Large,Manager_39,Y,12.7452,75.0396,Low
+T041,Territory_41,East,Gujarat,A,371561,Small,Manager_40,Y,33.3587,91.3339,Low
+T042,Territory_42,South,Delhi,C,2415499,Small,Manager_41,Y,10.3972,81.9333,Low
+T043,Territory_43,East,Karnataka,A,1525574,Large,Manager_42,Y,34.9781,82.3081,Low
+T044,Territory_44,East,West Bengal,B,3418624,Small,Manager_43,Y,8.8744,68.1435,Low
+T045,Territory_45,North,Karnataka,A,2472911,Small,Manager_44,Y,33.4992,82.8148,Medium
+T046,Territory_46,East,Karnataka,C,2981281,Small,Manager_45,Y,30.191,70.8391,High
+T047,Territory_47,West,Karnataka,B,4968362,Large,Manager_46,N,19.7766,77.6435,High
+T048,Territory_48,West,Telangana,C,4134084,Large,Manager_47,N,24.7234,83.6559,Low
+T049,Territory_49,East,Tamil Nadu,C,2240519,Medium,Manager_48,Y,33.6818,68.0279,Medium
+T050,Territory_50,Central,Uttar Pradesh,C,4465721,Large,Manager_49,Y,30.6906,68.2611,High
+T051,Territory_51,South,West Bengal,B,329491,Large,Manager_50,N,12.7123,86.247,High
+T052,Territory_52,East,Tamil Nadu,A,4340259,Large,Manager_51,Y,19.0266,91.9255,Medium
+T053,Territory_53,Central,Telangana,A,815498,Medium,Manager_52,N,19.6594,93.1725,Low
+T054,Territory_54,East,Telangana,C,1876486,Medium,Manager_53,N,30.3107,83.2478,Medium
+T055,Territory_55,East,Telangana,B,4831369,Large,Manager_54,Y,29.7337,94.8476,High
+T056,Territory_56,North,Telangana,C,4735817,Small,Manager_55,Y,17.3982,75.4107,Medium
+T057,Territory_57,South,Gujarat,B,2381736,Medium,Manager_56,N,34.7423,91.2431,Medium
+T058,Territory_58,North,Delhi,C,741687,Large,Manager_57,Y,25.4897,88.1574,Medium
+T059,Territory_59,North,Uttar Pradesh,B,1867038,Medium,Manager_58,N,31.527,96.003,Medium
+T060,Territory_60,West,Karnataka,A,1370938,Medium,Manager_59,Y,32.2167,90.6549,High
+T061,Territory_61,Central,West Bengal,B,4631018,Small,Manager_60,Y,11.0322,95.3958,Medium
+T062,Territory_62,North,Delhi,B,2009798,Large,Manager_61,Y,9.9892,69.6562,High
+T063,Territory_63,West,Gujarat,C,4239140,Large,Manager_62,Y,12.5455,70.8425,High
+T064,Territory_64,East,Delhi,B,3431852,Large,Manager_63,N,9.489,79.5432,Low
+T065,Territory_65,East,Uttar Pradesh,C,1072330,Medium,Manager_64,Y,30.9745,71.6727,Medium
+T066,Territory_66,South,Karnataka,A,3485271,Large,Manager_65,Y,23.7885,83.7036,Medium
+T067,Territory_67,Central,Maharashtra,B,850047,Large,Manager_66,Y,31.5895,85.0814,Medium
+T068,Territory_68,West,Tamil Nadu,C,2621477,Large,Manager_67,N,23.902,69.0612,Low
+T069,Territory_69,East,Uttar Pradesh,B,1869182,Medium,Manager_68,Y,29.5716,77.4545,Medium
+T070,Territory_70,East,Uttar Pradesh,C,3936608,Large,Manager_69,N,8.9718,84.6255,High
+T071,Territory_71,Central,Gujarat,A,4751160,Large,Manager_70,Y,22.6513,96.4605,Medium
+T072,Territory_72,Central,West Bengal,C,747698,Small,Manager_71,N,33.2331,68.5884,Medium
+T073,Territory_73,East,Gujarat,A,4054184,Large,Manager_72,Y,30.6021,88.7511,High
+T074,Territory_74,East,Uttar Pradesh,A,1270195,Small,Manager_73,N,21.5338,89.5103,Low
+T075,Territory_75,West,Tamil Nadu,A,4118587,Medium,Manager_74,N,8.6462,76.2022,Low
+T076,Territory_76,South,Uttar Pradesh,A,2803341,Medium,Manager_75,Y,17.4767,89.6744,Low
+T077,Territory_77,West,Karnataka,B,1715713,Large,Manager_76,N,31.0641,71.1197,Low
+T078,Territory_78,East,Gujarat,A,4553693,Medium,Manager_77,Y,24.2372,79.3064,High
+T079,Territory_79,East,Tamil Nadu,B,4582251,Large,Manager_78,N,30.9933,86.5749,High
+T080,Territory_80,Central,Telangana,C,1949478,Large,Manager_79,N,13.9151,93.781,High
+T081,Territory_81,East,Gujarat,B,334135,Small,Manager_80,N,27.088,88.2755,Low
+T082,Territory_82,South,Karnataka,A,390103,Large,Manager_81,N,25.1356,95.6073,Low
+T083,Territory_83,South,Uttar Pradesh,B,3760943,Large,Manager_82,Y,17.5039,95.4131,High
+T084,Territory_84,North,West Bengal,C,1564967,Large,Manager_83,Y,26.1036,95.0464,Medium
+T085,Territory_85,West,Telangana,B,3518453,Large,Manager_84,Y,11.9103,80.2982,High
+T086,Territory_86,East,West Bengal,A,2307020,Medium,Manager_85,Y,26.4536,80.6324,Low
+T087,Territory_87,East,Karnataka,B,3122686,Large,Manager_86,N,12.5353,88.0084,High
+T088,Territory_88,East,Uttar Pradesh,B,1256586,Medium,Manager_87,N,23.347,70.3201,High
+T089,Territory_89,East,Delhi,C,2846137,Large,Manager_88,Y,14.3084,68.0774,Medium
+T090,Territory_90,Central,Karnataka,B,3747686,Medium,Manager_89,N,27.2742,86.1941,Medium
+T091,Territory_91,South,Delhi,C,4100690,Medium,Manager_90,Y,17.2636,77.0902,Medium
+T092,Territory_92,East,Gujarat,B,2783228,Medium,Manager_91,N,31.3154,81.7633,High
+T093,Territory_93,East,Telangana,B,2399234,Large,Manager_92,N,34.1679,93.8975,Low
+T094,Territory_94,Central,Delhi,B,145536,Large,Manager_93,N,27.777,93.7826,Low
+T095,Territory_95,Central,Telangana,C,4267991,Medium,Manager_94,N,14.6787,96.8919,Medium
+T096,Territory_96,East,Maharashtra,C,1901320,Medium,Manager_95,N,20.2197,70.2149,Medium
+T097,Territory_97,Central,Karnataka,B,4008173,Small,Manager_96,N,14.191,94.0748,High
+T098,Territory_98,Central,Gujarat,C,4022583,Large,Manager_97,N,34.0614,77.2149,Low
+T099,Territory_99,South,Gujarat,A,2873698,Small,Manager_98,N,24.8552,96.5349,Medium
+T100,Territory_100,Central,Telangana,B,2718245,Medium,Manager_99,Y,8.3467,95.5703,High
+T101,Territory_101,North,Delhi,B,757116,Medium,Manager_100,N,14.9403,92.246,Medium
+T102,Territory_102,West,Karnataka,C,3915781,Medium,Manager_101,Y,13.9481,93.6263,Low
+T103,Territory_103,West,Tamil Nadu,C,508755,Large,Manager_102,N,14.473,75.303,High
+T104,Territory_104,East,Maharashtra,C,1278004,Large,Manager_103,N,24.8077,69.7989,Low
+T105,Territory_105,East,Tamil Nadu,A,4306824,Large,Manager_104,Y,13.7421,86.1258,High
+T106,Territory_106,Central,Maharashtra,C,2671997,Medium,Manager_105,Y,24.9064,74.7212,Low
+T107,Territory_107,Central,Maharashtra,B,4287308,Medium,Manager_106,Y,15.6089,96.0308,High
+T108,Territory_108,Central,Delhi,A,1281319,Large,Manager_107,N,26.324,91.6373,Low
+T109,Territory_109,East,Gujarat,A,1109824,Large,Manager_108,N,20.7004,84.0154,Medium
+T110,Territory_110,North,Uttar Pradesh,B,971985,Medium,Manager_109,Y,34.2784,75.0152,High
+T111,Territory_111,South,Gujarat,C,2707275,Medium,Manager_110,N,33.7984,84.1767,Medium
+T112,Territory_112,East,Tamil Nadu,B,3427503,Small,Manager_111,N,13.9873,89.3972,High
+T113,Territory_113,North,Karnataka,B,4735716,Small,Manager_112,N,34.7895,96.4865,High
+T114,Territory_114,West,Maharashtra,B,2547818,Large,Manager_113,Y,24.3973,88.8465,Medium
+T115,Territory_115,East,Telangana,C,3360456,Large,Manager_114,N,22.881,79.2594,Low
+T116,Territory_116,East,Karnataka,B,4411710,Small,Manager_115,N,22.7664,90.4935,High
+T117,Territory_117,North,Tamil Nadu,C,4604838,Small,Manager_116,Y,25.8996,81.0072,High
+T118,Territory_118,North,Karnataka,B,1414292,Medium,Manager_117,Y,25.873,92.823,High
+T119,Territory_119,East,Karnataka,C,4108342,Small,Manager_118,Y,24.5064,77.4398,High
+T120,Territory_120,Central,Uttar Pradesh,B,1576213,Medium,Manager_119,Y,29.6031,83.872,Medium
+T121,Territory_121,North,Delhi,A,1925968,Large,Manager_120,Y,11.7724,68.4413,High
+T122,Territory_122,West,West Bengal,C,4522007,Small,Manager_121,Y,26.6928,79.1369,Medium
+T123,Territory_123,South,Delhi,A,327107,Medium,Manager_122,Y,16.0452,83.2032,High
+T124,Territory_124,West,Gujarat,C,2061696,Large,Manager_123,Y,13.153,85.67,Medium
+T125,Territory_125,West,Uttar Pradesh,A,3189845,Large,Manager_124,Y,28.296,73.2819,Low
+T126,Territory_126,Central,Delhi,C,922168,Large,Manager_125,Y,25.647,84.4125,Low
+T127,Territory_127,West,Karnataka,B,1410300,Medium,Manager_126,N,32.2927,72.0773,Low
+T128,Territory_128,West,Gujarat,A,1954228,Large,Manager_127,N,15.5313,77.1732,Medium
+T129,Territory_129,North,West Bengal,B,4133175,Small,Manager_128,Y,14.5053,71.9783,Medium
+T130,Territory_130,South,Karnataka,A,3455688,Medium,Manager_129,Y,34.8804,69.8988,High
+T131,Territory_131,East,Gujarat,C,536781,Small,Manager_130,N,13.7224,90.1232,Low
+T132,Territory_132,West,Telangana,B,3859402,Small,Manager_131,N,14.789,70.3044,Low
+T133,Territory_133,Central,Uttar Pradesh,A,4686022,Large,Manager_132,Y,19.2234,77.7366,High
+T134,Territory_134,East,Tamil Nadu,C,4809240,Large,Manager_133,Y,29.1072,93.0938,Medium
+T135,Territory_135,West,Uttar Pradesh,C,427275,Medium,Manager_134,Y,28.3476,73.0475,Low
+T136,Territory_136,North,Gujarat,A,436756,Medium,Manager_135,Y,20.6843,76.2904,High
+T137,Territory_137,South,West Bengal,C,2820806,Large,Manager_136,N,23.1867,68.5043,High
+T138,Territory_138,East,Uttar Pradesh,C,1345151,Small,Manager_137,Y,10.2986,79.3564,Low
+T139,Territory_139,Central,Uttar Pradesh,C,4095036,Medium,Manager_138,N,12.9074,74.5361,High
+T140,Territory_140,Central,Tamil Nadu,A,2423167,Medium,Manager_139,N,19.7027,86.1142,High
+T141,Territory_141,East,Uttar Pradesh,A,1323917,Medium,Manager_140,Y,12.6626,70.5092,Medium
+T142,Territory_142,North,Uttar Pradesh,B,3623240,Large,Manager_141,N,10.7575,90.4196,High
+T143,Territory_143,West,Maharashtra,C,243502,Small,Manager_142,Y,9.578,95.7115,High
+T144,Territory_144,Central,West Bengal,A,1259628,Small,Manager_143,Y,22.6298,82.8837,High
+T145,Territory_145,West,Karnataka,A,3411918,Small,Manager_144,N,27.5836,86.9091,High
+T146,Territory_146,Central,Maharashtra,B,1909438,Large,Manager_145,N,17.0832,73.3258,High
+T147,Territory_147,South,Karnataka,A,1887385,Large,Manager_146,N,24.1046,80.702,Low
+T148,Territory_148,East,Gujarat,C,1392736,Small,Manager_147,Y,20.99,95.257,Low
+T149,Territory_149,Central,Delhi,C,2074677,Large,Manager_148,Y,29.899,68.7997,High
+T150,Territory_150,East,Tamil Nadu,C,4092971,Medium,Manager_149,Y,24.3905,88.004,High
+T151,Territory_151,North,West Bengal,B,1336004,Medium,Manager_150,N,17.1442,88.6383,Low
+T152,Territory_152,North,Delhi,C,4850744,Large,Manager_151,Y,9.5095,83.0292,High
+T153,Territory_153,North,Maharashtra,C,1612002,Medium,Manager_152,N,10.2734,70.6915,High
+T154,Territory_154,Central,Gujarat,C,850708,Large,Manager_153,N,33.3361,95.4253,High
+T155,Territory_155,North,Maharashtra,A,681310,Small,Manager_154,N,10.6478,86.5097,Medium
+T156,Territory_156,South,Uttar Pradesh,C,4298478,Large,Manager_155,N,24.5128,78.6912,Low
+T157,Territory_157,South,Uttar Pradesh,B,1526886,Medium,Manager_156,Y,10.0997,69.8698,High
+T158,Territory_158,West,West Bengal,B,690903,Small,Manager_157,Y,21.9159,78.1708,Medium
+T159,Territory_159,North,West Bengal,B,2131223,Medium,Manager_158,N,17.8212,93.6299,Low
+T160,Territory_160,East,Gujarat,B,320302,Large,Manager_159,N,30.7642,68.6617,Medium
+T161,Territory_161,South,West Bengal,A,139880,Large,Manager_160,Y,32.8484,94.0263,Low
+T162,Territory_162,South,Gujarat,B,317030,Small,Manager_161,Y,18.647,96.2658,High
+T163,Territory_163,South,Telangana,B,3299275,Medium,Manager_162,N,14.8222,83.6199,High
+T164,Territory_164,North,Karnataka,A,4345970,Medium,Manager_163,Y,19.7315,68.485,High
+T165,Territory_165,Central,Gujarat,A,4781831,Medium,Manager_164,Y,16.1488,72.7299,Low
+T166,Territory_166,East,Maharashtra,A,2675520,Medium,Manager_165,N,31.8285,69.2645,High
+T167,Territory_167,Central,Gujarat,B,179895,Small,Manager_166,Y,25.8859,69.4646,High
+T168,Territory_168,North,Uttar Pradesh,A,4288433,Medium,Manager_167,N,21.7698,72.0492,Low
+T169,Territory_169,East,Telangana,B,2575768,Small,Manager_168,Y,32.2193,93.5825,High
+T170,Territory_170,East,Maharashtra,B,179406,Large,Manager_169,Y,21.2955,87.6704,Medium
+T171,Territory_171,South,West Bengal,C,1604887,Small,Manager_170,N,34.1079,81.8581,High
+T172,Territory_172,East,Delhi,C,327602,Medium,Manager_171,Y,24.1215,91.4905,Low
+T173,Territory_173,West,Delhi,B,1205942,Small,Manager_172,N,26.3357,71.0547,High
+T174,Territory_174,North,Uttar Pradesh,A,2932494,Medium,Manager_173,Y,32.2686,92.1533,Low
+T175,Territory_175,South,Tamil Nadu,B,2177208,Small,Manager_174,Y,23.4638,71.9674,Medium
+T176,Territory_176,North,Uttar Pradesh,C,2063203,Medium,Manager_175,N,32.2461,94.9268,Low
+T177,Territory_177,Central,Delhi,B,1791455,Large,Manager_176,N,9.3568,71.7531,Medium
+T178,Territory_178,North,Gujarat,C,334546,Medium,Manager_177,N,14.927,91.2519,Low
+T179,Territory_179,East,Maharashtra,C,249898,Small,Manager_178,Y,12.5085,95.9259,Low
+T180,Territory_180,Central,Delhi,C,2631997,Medium,Manager_179,N,32.3403,73.5117,Medium
+T181,Territory_181,East,Telangana,B,2653284,Large,Manager_180,Y,21.0407,96.7744,Medium
+T182,Territory_182,West,Gujarat,C,2412748,Medium,Manager_181,Y,8.555,86.0052,Low
+T183,Territory_183,North,Karnataka,B,1045974,Medium,Manager_182,N,11.329,79.6089,Medium
+T184,Territory_184,West,Karnataka,A,601620,Large,Manager_183,N,33.8565,86.0855,Low
+T185,Territory_185,Central,Telangana,B,3368114,Small,Manager_184,Y,22.8422,84.1788,High
+T186,Territory_186,North,Delhi,B,3826086,Large,Manager_185,Y,33.1296,70.8246,High
+T187,Territory_187,East,West Bengal,A,654636,Medium,Manager_186,N,29.9274,68.7733,High
+T188,Territory_188,West,Maharashtra,B,3631897,Large,Manager_187,Y,34.0419,89.7605,High
+T189,Territory_189,East,Karnataka,C,2030659,Large,Manager_188,Y,30.2816,85.4242,Medium
+T190,Territory_190,Central,Delhi,C,618816,Medium,Manager_189,N,28.4569,69.7602,Low
+T191,Territory_191,North,Karnataka,A,1872231,Large,Manager_190,Y,29.9162,72.0076,Low
+T192,Territory_192,Central,Uttar Pradesh,A,3465933,Medium,Manager_191,N,11.1723,76.8575,Low
+T193,Territory_193,South,Maharashtra,C,4337725,Large,Manager_192,Y,31.2404,94.1455,Low
+T194,Territory_194,East,Gujarat,B,1339455,Small,Manager_193,N,8.6144,84.9898,Low
+T195,Territory_195,East,Telangana,B,1922737,Medium,Manager_194,N,8.681,96.0006,Low
+T196,Territory_196,North,Delhi,C,865310,Medium,Manager_195,Y,9.6854,78.6171,Low
+T197,Territory_197,South,Tamil Nadu,B,993454,Small,Manager_196,Y,25.9535,89.8618,Medium
+T198,Territory_198,South,Tamil Nadu,C,4322638,Small,Manager_197,Y,17.2346,93.3443,Low
+T199,Territory_199,South,West Bengal,C,304835,Medium,Manager_198,N,30.4344,93.0652,High
+T200,Territory_200,East,Uttar Pradesh,B,3591736,Small,Manager_199,N,34.5378,86.5986,Medium
